@@ -1,0 +1,9 @@
+---,InitialValue,UpgradeValue,InitialUpgradeCost,CostIncrease
+BaseMaxHP,20,0,0,0
+FixBaseHP,1,0,1,1
+PlayerMaxHP,5,1,3,2
+PlayerMaxMana,10,1,1,2
+ManaRecoverySpeed,1,1,10,20
+FireballDamage,5,1,5,5
+FireballManaCost,5,1,10,20
+FireballCD,5,0.1,1,0
