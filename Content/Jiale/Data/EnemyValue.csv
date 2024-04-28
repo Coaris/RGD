@@ -1,4 +1,4 @@
 ---,HP,Attack,AttackFrequency,Speed,Gold,Score
-Ghost,15,1,1,200,2,100
-EvilSkeleton,10,2,3,100,3,200
-SkullCultist,20,3,5,50,4,0
+Ghost,10,1,1,200,8,100
+EvilSkeleton,15,2,3,100,12,200
+SkullCultist,20,3,5,50,15,0
